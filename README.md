@@ -1,6 +1,4 @@
-# ElsMathyasdada
-# meh addasfuhudsos
-## asdasdjsfnsdjaoj
+# Els
 # Sparta Node Sample App
 
 ## Description
